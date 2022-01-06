@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoshuaColell (You can just call me Josh)
+- 👋 Hi, I’m @JoshuaColell (You can just call me Joshua)
 - 👀 I’m interested in making retro computers and other stuff :)
 - 🌱 I’m currently learning: How retro computers work and how to make one.
 - 📫 How to reach me: Discord
